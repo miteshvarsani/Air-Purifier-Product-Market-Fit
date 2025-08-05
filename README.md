@@ -64,6 +64,8 @@ https://drive.google.com/drive/folders/1DDQbpYr_CdUB26uw5_D96eWQ17dIKa4-?usp=sha
 
 •	Population and AQI have no direct correlation – higher population does not always mean worse AQI. This means that it is not necessary for the government to only direct counter-pollution measures to populous cities.
 
+•	Risk scores (AQI * Median Income * Population Density, all divided by 1000000) of Delhi is extremely critical, with Puducherry, Uttar Pradesh and Haryana being dangerously high as well. 
+
 # Additional Market Analysis
 
 1. It was reported that 90% of Indians know about AQI and air pollution but lack knowledge on its causes and effects, which might be the reason for poor AQI policy implementation (https://www.thehindu.com/news/cities/Delhi/90-citizens-aware-of-air-pollution-but-lack-awareness-of-causes-and-impact/article25528325.ece). This creates a unique opportunity to bundle air purifier ads with informative ads for greater engagement.
